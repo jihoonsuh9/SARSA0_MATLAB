@@ -4,7 +4,7 @@ This is a simple MATLAB Implementation of tabular SARSA(0) on the Grid World env
 To run, MATLAB is required along with every file on this repository.
 Then, type the following commnad on the Command Window.
   
-      $ run simulateRL_sarsa0.mat
+      $ run simulateRL_sarsa0.m
 
 * The size of the Grid World is 8x8 by default, provided by files 'GW_Course_easy.mat' and 'GW_Course_hard.mat'.
 
