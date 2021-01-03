@@ -1,5 +1,5 @@
 # SARSA0_MATLAB
-This is a simple MATLAB Implementation of tabular SARSA(0) on the Grid World envrionment.
+This is a simple MATLAB Implementation of tabular SARSA(0) on the Grid World environment.
 
 To run, MATLAB is required along with every file on this repository.
 Then, type the following commnad on the Command Window.
