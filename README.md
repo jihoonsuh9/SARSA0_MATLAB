@@ -14,4 +14,4 @@ Then, type the following commnad on the Command Window.
 
 * The plot for mean reward per episode is generated. Then, the animation of the optimal path is played.
 
-For questions and concerns, please contact Jihoon Suh - jihoonsuh715@gmail.com.
+For questions and concerns, please contact me at jihoonsuh715@gmail.com.
